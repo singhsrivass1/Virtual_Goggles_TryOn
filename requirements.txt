@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+mediapipe
+torch
+torchvision
+torchaudio
+pillow
+numpy
+requests
+
