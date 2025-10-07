@@ -1,3 +1,13 @@
+---
+title: Virtual Goggles Try-On 👓
+emoji: 🕶️
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.33.0"
+app_file: app.py
+pinned: false
+---
 🕶️ Virtual Goggles Try-On using AI & ML
 👓 Try on goggles virtually — in real time or using an uploaded image — powered by MediaPipe FaceMesh and BiSeNet segmentation.
 🎯 Project Overview
@@ -157,3 +167,4 @@ Live Streamlit App
 ✅ Ready for Deployment
 ✅ Class Presentation-Ready
 ✅ AI-Powered AR Experience
+
